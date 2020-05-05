@@ -2,7 +2,9 @@
 # returns the phrase
 
 def parrot(phrase)
-  if phrase = pretty bird
-  return "Squawk!"
+ if phrase = "Pretty bird!"
+   return phrase
+ else
+   return "Squawk!"
 end
 
