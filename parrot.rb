@@ -2,10 +2,10 @@
 # returns the phrase
 
 def parrot(phrase)
-  puts phrase = "Pretty bird!"
+  puts phrase
  if phrase = "Pretty bird!"
    return phrase
- else phrase = "parrot"
+ else phrase != "parrot"
    return "Squawk!"
  end
 end
