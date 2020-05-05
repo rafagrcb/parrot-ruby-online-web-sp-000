@@ -5,8 +5,8 @@ def parrot(phrase)
   puts phrase = "Pretty bird!"
  if phrase = "Pretty bird!"
    return phrase
- else phrase = " "
-   return "Squawk!"
+ else
+   puts "Squawk!"
  end
 end
 
